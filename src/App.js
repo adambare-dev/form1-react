@@ -4,7 +4,7 @@ function randomNumber() {
 };
 let randomNum = randomNumber();
 console.log(`generated random numb is ${randomNum}`);
-console.log(randomNum);
+
 
 import Modal from './Modal';
 import React, { useState } from 'react'
