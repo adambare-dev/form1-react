@@ -168,7 +168,8 @@ function SingUp() {
             </form>
             <p>{succsess && "submitedd succsessfully✅"}</p>
         </div>
-    )
+    );
 };
 
 export default SingUp;
+
